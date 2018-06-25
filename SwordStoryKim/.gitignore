@@ -27,3 +27,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# .gitignore
+# .DS_Store banished!
+.DS_Store
